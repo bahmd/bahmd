@@ -19,7 +19,7 @@ I have experience in scenarios where QA processes are already implemented, and a
 * Python<br>
 * Selenium<br>
 * Playwright<br>
-* Test automation with Postman<br>
+* API testing with Postman<br>
 
 
 
