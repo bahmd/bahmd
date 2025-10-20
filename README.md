@@ -7,7 +7,7 @@ I have experience in scenarios where QA processes are already implemented, and a
 
 💪🏻 Key strengths include:<br>
 * Manual Testing: Web, Mobile, API, Database<br>
-* Test Case Design, Execution & Documentation (Portfolio https://tinyurl.com/BMDJiraTestRailWiki)<br>
+* Test Case Design, Execution & Documentation<br>
 * Regression testing | Exploratory testing | Black box testing | White box testing | User acceptance testing<br>
 * Agile / Scrum Methodologies<br>
 * Defect Tracking & Root Cause Analysis (Jira, Confluence, Git)<br>
